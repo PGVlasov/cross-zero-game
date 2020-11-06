@@ -1,0 +1,10 @@
+.Field table {
+  width: 600px;
+  height: 600px;
+  max-width: 600px;
+}
+.Field table button {
+  width: 100px;
+  height: 50px;
+  background: linear-gradient(90deg, #fb8355 0%, #f0576c 37%, #f79cbd 100%);
+}

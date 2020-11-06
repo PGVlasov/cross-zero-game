@@ -1,0 +1,8 @@
+.Header {
+  width: 1600px;
+  height: 1600px;
+  max-width: 1000px;
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}

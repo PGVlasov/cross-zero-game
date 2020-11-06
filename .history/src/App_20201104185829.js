@@ -1,12 +1,10 @@
+import classes from "*.module.css";
 import Field from "./Containers/Field/Field";
-import { Header } from "./Containers/Header/Header";
+import classes from "./App.module.css";
 
 function App() {
   return (
-    <div>
-      <Header />
-      <hr />
-      <hr />
+    <div className={classes.App}>
       <Field />
     </div>
   );

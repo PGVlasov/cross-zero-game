@@ -1,11 +1,9 @@
 import Field from "./Containers/Field/Field";
-import { Header } from "./Containers/Header/Header";
 
 function App() {
   return (
     <div>
-      <Header />
-      <hr />
+      <h2>Lets play cdoss-zero</h2>
       <hr />
       <Field />
     </div>
