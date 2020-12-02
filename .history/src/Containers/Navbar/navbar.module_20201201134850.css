@@ -1,0 +1,10 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  background: rgb(162, 233, 173);
+}
+
+.navbarHeader {
+  font-size: 30px;
+  color: rgb(211, 102, 102);
+}

@@ -1,0 +1,13 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+  background: rgb(162, 233, 173);
+}
+
+.navbarHeader {
+  font-size: 30px;
+  color: rgb(211, 102, 102);
+  background: rgb(162, 233, 173);
+  align-items: center;
+  justify-content: center;
+}
