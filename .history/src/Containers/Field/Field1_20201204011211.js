@@ -248,13 +248,13 @@ class Field1 extends React.Component {
           ref={this.myRef}
           onClick={this.onSetValue}
         >
-          <div className={classes.table}></div>
-          <div className={classes.table}></div>
-          <div className={classes.table}></div>
-          <div className={classes.table}></div>
-          <div className={classes.table}></div>
-          <div className={classes.table}></div>
-          <div className={classes.table}></div>
+          <div className={classes.table} id={"pole"}></div>
+          <div className={classes.table} id={"pole"}></div>
+          <div className={classes.table} id={"pole"}></div>
+          <div className={classes.table} id={"pole"}></div>
+          <div className={classes.table} id={"pole"}></div>
+          <div className={classes.table} id={"pole"}></div>
+          <div className={classes.table} id={"pole"}></div>
           <div className={classes.table}></div>
           <div className={classes.table}></div>
           <div className={classes.table}></div>
