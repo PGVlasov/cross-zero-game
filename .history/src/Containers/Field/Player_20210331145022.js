@@ -1,11 +1,13 @@
 import React from "react";
 
-const Player = () => {
+const Players = () => {
   return (
     <div>
+      <h3>Players {}</h3>
       <p>Information about Player</p>
+      <p>Name</p>
     </div>
   );
 };
 
-export default Player;
+export default Players;

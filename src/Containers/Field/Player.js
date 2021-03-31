@@ -5,6 +5,7 @@ const Players = () => {
     <div>
       <h3>Players {}</h3>
       <p>Information about Player</p>
+      <p>Name</p>
     </div>
   );
 };
