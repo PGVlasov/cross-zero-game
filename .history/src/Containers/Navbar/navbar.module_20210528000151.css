@@ -1,0 +1,26 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  background: linear-gradient(270deg, #faebce 0%, #da4a07 100%);
+}
+
+.navbarHeader {
+  font-size: 30px;
+  color: rgb(211, 102, 102);
+  background: rgb(162, 233, 173);
+  align-items: center;
+  justify-content: center;
+}
+
+.ul {
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+  padding: 5px;
+  margin: 5px;
+}
+
+.li {
+  display: flex;
+  justify-content: space-between;
+}
