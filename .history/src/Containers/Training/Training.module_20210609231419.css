@@ -1,0 +1,19 @@
+.Training {
+  display: flex;
+  justify-content: center;
+  flex-grow: 1;
+  width: 100%;
+  background: linear-gradient(270deg, #cef2fa 0%, #59bfef 100%);
+}
+
+.Training > div {
+  margin: auto;
+  justify-content: space-around;
+  display: flex;
+  width: 100%;
+  max-height: 100;
+  padding: 0 20px;
+  color: #fff;
+  max-width: 600px;
+  padding: 0 20px;
+}

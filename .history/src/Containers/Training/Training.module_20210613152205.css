@@ -1,0 +1,29 @@
+.Training {
+  display: flex;
+  justify-content: center;
+  /* flex-grow: 1; */
+  width: 100%;
+  background: linear-gradient(270deg, #cef2fa 0%, #59bfef 100%);
+}
+
+/* .overlay {
+  display: flex;
+  width: 1600px;
+  height: 1600px;
+  color: gray;
+  opacity: 10%;
+} */
+
+.Training > div {
+  margin: 20px;
+  justify-content: space-around;
+  display: flex;
+  width: 100%;
+  padding: 20px 20px;
+  color: #fff;
+  max-width: 600px;
+  padding: 0 20px;
+}
+.Training > div > div {
+  display: flex;
+}

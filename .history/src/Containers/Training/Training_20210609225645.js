@@ -1,0 +1,6 @@
+import { Component } from "react";
+import classes from "./Training.module.css";
+
+export const Traning = () => {
+  return <div className={classes.Training}></div>;
+};
