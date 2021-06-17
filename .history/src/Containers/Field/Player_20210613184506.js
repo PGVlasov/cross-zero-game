@@ -162,7 +162,7 @@ export default class Players extends Component {
   //         "mongodb+srv://PGVlasov:S5rQ9tjIDIckCBWi@cluster0.eetmb.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
   //       )
   //       .then((response) => console.log(response));
-  //{ }
+  //{react-scripts start }
   //   }
 
   render() {

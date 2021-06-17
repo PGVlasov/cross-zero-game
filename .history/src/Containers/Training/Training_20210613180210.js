@@ -6,9 +6,9 @@ export default class Training extends Component {
     console.log("videoCliced");
   };
 
-  //   onError = () => {
-  //     return <p>Извинте, видео недоступно</p>;
-  //   };
+  onError = () => {
+    return <p>Извинте, видео недоступно</p>;
+  };
 
   render() {
     return (
